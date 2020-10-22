@@ -7410,6 +7410,10 @@ p {
     margin-right: 14px;
     margin-bottom: 10px; } }
 
+@media only screen and (min-width: 1200px) {
+  .dk-footer-box-info {
+    padding: 37px; } }
+
 .dk-footer-box-info .footer-social-link h3 {
   color: #fff;
   font-size: 24px;
